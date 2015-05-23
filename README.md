@@ -7,3 +7,5 @@ Everyone can add this to his modpack, as long as they mention from where they go
 Simply by adding a link to this github page is more then enough...
 
 Another thing since this is a part of TMT you are not allowed to make custom versions and say that it is your own.
+
+Sourcecode will come soon.
